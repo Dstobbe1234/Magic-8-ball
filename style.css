@@ -4,18 +4,31 @@ html {
 }
 
 body {
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.8);
     border-radius: 25px;
-    padding: 25px 85px;
-    margin: 25px auto;
+    padding: 25px 100px;
+    margin: 100px auto;
+    width: 300px;
 }
 
+input {
+    width: 285px;
+    height: 30px;
+}
 
 img {
     height: 150px;
     width: 150px;
+    padding-top: 30px;
 }
 
 span {
     color: blue;
 }
+
+.pHeading {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+
