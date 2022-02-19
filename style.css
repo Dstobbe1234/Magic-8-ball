@@ -1,5 +1,18 @@
+html {
+    background: url(img/Background.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 25px;
+    padding: 25px 85px;
+    margin: 25px auto;
+}
+
+
 img {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 }
 
