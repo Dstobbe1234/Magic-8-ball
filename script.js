@@ -1,4 +1,4 @@
-// Magic 8 ball project - David Stobbe
+// Magic 8 ball project - David Stobbe!
 
 // Variables for HTML elements
 let question = document.getElementById("question");
